@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+}
+
+
+
+.bg {
+  background-color: red;
+  width: 100vw;
+  height: 100vh;
+}
